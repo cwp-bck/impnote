@@ -1,0 +1,1 @@
+aku buat sebuah fungsi disini untuk utils route
